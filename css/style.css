@@ -1769,17 +1769,13 @@ header {
 
     .brands-icons {
         width: 100%;
-        flex-direction: row;
+        flex-direction: column;
         flex-wrap: wrap;
         
     }
-    
-    .brands-icons a {
-        width: 20%;
-    }
 
     .brands-icons a {
-        margin: 10px;
+        margin: 20px;
     }
 
     .main-footer {
